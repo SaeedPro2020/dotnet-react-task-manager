@@ -248,10 +248,6 @@ GitHub Actions workflow (`.github/workflows/build.yml`) automatically:
 - [ ] Task priority levels
 - [ ] Task attachments
 
-## License
-
-MIT License
-
 ## Author
-
-Created as a demonstration of a full-stack application with modern technologies.
+ - Saeed Farkhondeh
+ - LinkedIn: https://www.linkedin.com/in/saeed-farkhondeh-575924172/
